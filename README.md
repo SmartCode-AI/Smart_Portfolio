@@ -41,54 +41,19 @@ Visualization & Reporting – Confusion matrix, ROC curves, feature importance.
 Continuous Improvement – Retraining with new data, adding explainability.    
 
 
-AI-Cancer-Prediction-System/
-│── README.md
-│── requirements.txt
-│── .gitignore
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_model_training.ipynb
-│   └── 04_evaluation.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── features.py
-│   ├── models.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── predict.py
-│
-├── app/
-│   ├── static/
-│   ├── templates/
-│   └── app.py
-│
-├── results/
-│   ├── figures/
-│   ├── reports/
-│   └── models/
-│
-├── docs/
-│   ├── Project_Report.pdf
-│   ├── Poster.pdf
-│   └── Grammarly_Report.pdf
-│
-└── tests/
-    ├── test_preprocessing.py
-    ├── test_models.py
-    └── test_app.py
 
 ## 👥Team Members
-Lina - Data Collection & Preprocessing
-Scelo - Exploratory Data Analysis (EDA)
+Lina - Data Collection & Preprocessing.
+
+Scelo - Exploratory Data Analysis (EDA).
+
 Gift - Machine Learning Models
+
 Vukona - Deep Learning Model
+
 Princess - Model Evaluation & Visualization
+
 Elton - Deployment (Web App)
+
 Kgalalelo - Documentation
+
