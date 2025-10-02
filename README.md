@@ -84,11 +84,11 @@ AI-Cancer-Prediction-System/
     ├── test_models.py
     └── test_app.py
 
-
-- Data Collection & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning Models
-- Deep Learning Model
-- Model Evaluation & Visualization
-- Deployment (Web App)
-- Documentation
+## 👥Team Members
+Lina - Data Collection & Preprocessing
+Scelo - Exploratory Data Analysis (EDA)
+Gift - Machine Learning Models
+Vukona - Deep Learning Model
+Princess - Model Evaluation & Visualization
+Elton - Deployment (Web App)
+Kgalalelo - Documentation
